@@ -9,6 +9,7 @@ import { Passions } from './components/sections/Passions'
 import { Projects } from './components/sections/Projects'
 import { TechStack } from './components/sections/TechStack'
 
+
 export default function App() {
   return (
     // "user" = respect the visitor's OS-level reduced-motion setting.
